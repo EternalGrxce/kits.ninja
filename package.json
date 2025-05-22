@@ -1,7 +1,7 @@
 {
   "name": "kits-ninja",
   "version": "1.0.0",
-  "homepage": "https://eternalgrxce.github.io/kits.ninja",
+  "homepage": "https://eternalgrxce.github.io/kits.ninja/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",

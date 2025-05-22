@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kits.ninja/static/css/main.69f1bb91.css",
+    "main.js": "/kits.ninja/static/js/main.ef839685.js",
+    "index.html": "/kits.ninja/index.html",
+    "main.69f1bb91.css.map": "/kits.ninja/static/css/main.69f1bb91.css.map",
+    "main.ef839685.js.map": "/kits.ninja/static/js/main.ef839685.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69f1bb91.css",
+    "static/js/main.ef839685.js"
+  ]
+}
